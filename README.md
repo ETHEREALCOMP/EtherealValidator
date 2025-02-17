@@ -9,3 +9,7 @@ URL Validation: Validates if a URL is in a correct format.
 JSON Validation: Validates if a string is a valid JSON format.
 XML Validation: Validates if a string is a valid XML format.
 Cache Support: For email validation, previously validated emails are cached to avoid redundant checks.
+
+
+for download:
+dotnet add package EtherealValidator --version 1.0.0
